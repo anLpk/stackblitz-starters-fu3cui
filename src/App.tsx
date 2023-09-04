@@ -14,7 +14,7 @@ export const App: FC = () => {
       }}
     >
       <TruncatedFileName
-        fileName={
+        text={
           'thisisverylooooooongfilenamethisisverylooooooongfilenamethisisverylooooooongfilename.tsx'
         }
       />
